@@ -1,0 +1,14 @@
+-d E:\fpga\GoWin_code_self\6_cam_udp_ddr3_480p_30fps_3\ov5640_480_272\impl\gwsynthesis\ov5640_480_272.vg
+-p GW5AST-138B-FCPBGA676A-1
+-pn GW5AST-LV138FPG676AES
+-cst E:\fpga\GoWin_code_self\6_cam_udp_ddr3_480p_30fps_3\ov5640_480_272\src\top.cst
+-cfg E:\fpga\GoWin_code_self\6_cam_udp_ddr3_480p_30fps_3\ov5640_480_272\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-warning_all
+-timing
+-cst_error
+-no_cst_warning
+-correct_hold 1
+-route_maxfan 23
